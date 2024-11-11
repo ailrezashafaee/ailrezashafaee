@@ -1,6 +1,8 @@
 ### Hi there 
 #### I'm Alireza Shafaee
-Cs student working as a Software dev 
+
+Data Science and Engineering student.
+Software engineer
 <!--
 **ailrezashafaee/ailrekzashafaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
