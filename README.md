@@ -2,7 +2,10 @@
 #### I'm Alireza Shafaee
 
 Data Science and Engineering student.
-Software engineer
+Data Science Engineer in MVM
+
+
+  
 <!--
 **ailrezashafaee/ailrekzashafaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
